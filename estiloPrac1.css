@@ -1,9 +1,29 @@
 @charset "UTF-8";
 /* CSS Document */
 
-#primeraFila{
-	margin-right:15%;
-	margin-left:4%;
-	border:3px solid #A69576;
-	
-}
+div.navbar{background-color: white;
+			border: none;}
+
+#fila_4{padding-bottom:20px;
+		padding-top:20px;}
+
+img.logo{width:300px;}
+
+img.portada{width:100%;
+			padding-top:5px;
+			padding-bottom:10px;}
+
+img.noticia{width:500px;}
+img.agenda{width:200px;}
+img.transparencia{width:200px;}
+img.institutos{width:200px;}
+img.inversion{width:200px;}
+img.convocatorias{width:200px;}
+img.universidad{width:200px;}
+img.ciencia{width:200px;}
+img.congresos{width:200px;}
+img.calendario{width:200px;}
+
+img.fila_6{width:100%;
+			padding-top:10px;
+			padding-bottom:10px;}
