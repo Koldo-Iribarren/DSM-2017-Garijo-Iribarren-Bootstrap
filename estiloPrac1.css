@@ -13,16 +13,26 @@ img.portada{width:100%;
 			padding-top:5px;
 			padding-bottom:10px;}
 
-img.noticia{width:500px;}
-img.agenda{width:200px;}
-img.transparencia{width:200px;}
-img.institutos{width:200px;}
-img.inversion{width:200px;}
-img.convocatorias{width:200px;}
-img.universidad{width:200px;}
-img.ciencia{width:200px;}
-img.congresos{width:200px;}
-img.calendario{width:200px;}
+img.noticia{width:100%;
+			max-width:500px;}
+img.agenda{width:100%;
+			max-width:200px;}
+img.transparencia{width:100%;
+			max-width:200px;}
+img.institutos{width:100%;
+			max-width:200px;}
+img.inversion{width:100%;
+			max-width:200px;}
+img.convocatorias{width:100%;
+			max-width:200px;}
+img.universidad{width:100%;
+			max-width:200px;}
+img.ciencia{width:100%;
+			max-width:200px;}
+img.congresos{width:100%;
+			max-width:200px;}
+img.calendario{width:100%;
+			max-width:200px;}
 
 img.fila_6{width:100%;
 			padding-top:10px;
